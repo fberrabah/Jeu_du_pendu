@@ -21,7 +21,7 @@ def affiche_lettres_trouvees(positions, mot_a_trouver):
         if position_actuelle in positions :
             mot_a_aficher += lettre_mot
         else:
-            mot_a_aficher += "-"
+            mot_a_aficher += "#"
         position_actuelle += 1
 
     return mot_a_aficher
