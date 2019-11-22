@@ -1,21 +1,12 @@
-# Javascript : Le pendu 
+# Python3 : Le pendu 
 
-Créer le <a href="https://fr.wikipedia.org/wiki/Le_pendu_(jeu)">jeu du pendu</a> en utilisant HTML/CSS et javascript.
+Créer le <a href="https://fr.wikipedia.org/wiki/Le_pendu_(jeu)">jeu du pendu</a> en utilisant python3.
 
 # Déroulement 
 
 L'IA choisit un mot aléatoire et le joueur doit deviner le mot en proposant une lettre par une lettre. 
 
-Pour vous facilier la tâche définissez une liste de mots (une dizaine) par défaut pour que l'IA y pioche aléatoirement. Les mots sont de tailles différentes et doivent faire 6 lettres minimum.
-
-Vous avez des images du pendu dans le dossier *images* et un [exemple](Exemple.png). Vous n'êtes pas obligé de suivre le design de l'exemple mais ne perdez du temps
-à faire votre propre design.
-
-# Contraintes
-
-- Pas de framework JS
-- Pas de boîte d'alerte javascript (*alert, prompt, confirm*)
-- Code versionné et sur github (comme d'hab)
+Pour vous facilier la tâche définissez une liste de mots (une dizaine) par défaut pour que l'IA y pioche aléatoirement. Les mots sont de tailles différentes.
 
 # Critères de qualité
 
@@ -33,5 +24,5 @@ Votre jeu devra :
 
 # Ressources 
 
-- [Manipuler le Dom (Partie 1 et 2)](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/manipuler-le-code-html-partie-1-2)
-- [Les événements](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/les-evenements-24)
+- https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232565-tp-realisez-un-bon-vieux-pendu
+- https://www.youtube.com/watch?v=Q6nMsxm7JxU
